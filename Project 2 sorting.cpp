@@ -2,8 +2,6 @@
 // inserts courses into the tree in alphanumeric order.
 
 
-
-
 //Traverse tree in order
 void BinarySearchTree::InOrder() {
 	inOrder(root);
